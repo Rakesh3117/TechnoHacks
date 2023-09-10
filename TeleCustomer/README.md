@@ -32,6 +32,7 @@ Utilize built-in analytics tools to gain insights into customer behavior, servic
 1. Open the Jupyter Notebook:
    - If you haven't installed Jupyter Notebook, you can install it using `pip install notebook`.
    - Navigate to the directory containing this notebook in your terminal and run the following command:
+     
      ```
      jupyter notebook TeleCustomer.ipynb
      ```
@@ -68,6 +69,3 @@ Utilize built-in analytics tools to gain insights into customer behavior, servic
 
 Contributions to this Jupyter Notebook are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-## License
-
-This Jupyter Notebook is licensed under the [MIT License](LICENSE.md).
