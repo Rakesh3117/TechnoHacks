@@ -10,7 +10,7 @@ Credit card fraud is a significant problem, costing billions of dollars each yea
 # Installation
 Clone the repository:
 
-git clone https://github.com/yourusername/credit-card-fraud-detection.git
+git clone https://github.com/Rakesh3117/TechnoHacks/tree/main/credit-card-fruad-detection
 
 ## Usage
 
