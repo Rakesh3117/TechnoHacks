@@ -24,7 +24,7 @@ Utilize built-in analytics tools to gain insights into customer behavior, servic
 
  ## Installation:
  
- git clone https://github.com/yourusername/TeleCustomer.git
+ git clone https://github.com/Rakesh3117/TechnoHacks/tree/main/TeleCustomer
 
 
 ## Usage
@@ -35,6 +35,7 @@ Utilize built-in analytics tools to gain insights into customer behavior, servic
      
      ```
      jupyter notebook TeleCustomer.ipynb
+     
      ```
 
 2. Navigate through the notebook by running each code cell and reading the accompanying markdown cells. The notebook is organized into sections, each covering different aspects of the TeleCustomer CRM system.
