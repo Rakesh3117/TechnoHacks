@@ -16,7 +16,7 @@ Clone the repository:
 
 shell
 Copy code
-git clone .......
+git clone https://github.com/Rakesh3117/TechnoHacks/tree/main/Employee-turnover
 
 ### Usage
 
